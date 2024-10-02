@@ -1,8 +1,0 @@
-p {
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    background-color: #3498db;
-    transition: background-color 0.9s ease;
-    display: inline-block;
-    white-space: nowrap;
-}
